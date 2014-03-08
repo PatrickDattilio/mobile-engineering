@@ -2,7 +2,7 @@ mobile-engineering
 ==================
 This is the mobile-engineering code challenge done as an Android app.
 
-Import the project in Android Studio to build/run.
+Import the project in Android Studio to build/run on any Android device on API 8+.
 
 Clicking an item  gives a contextual action mode from which you can view the URL or share the item. Long clicking 
 provides a shortcut to viewing the url.
